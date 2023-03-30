@@ -2,3 +2,4 @@ name: nodes
 version: '${project.version}'
 main: tk.airshipcraft.nodes.Nodes
 api-version: 1.19
+folia-supported: true
